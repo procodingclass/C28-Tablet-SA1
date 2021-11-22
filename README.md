@@ -1,1 +1,1 @@
-# Tablet-SPCK-PRO-C28-Student-Activity
+# Tablet-SPCK-PRO-C28-Teacher-Activity-Reference-Code
