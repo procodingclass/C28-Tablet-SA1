@@ -1,2 +1,1 @@
-# C28-Tablet-SA1
-C28-Tablet-SA1
+# Tablet-SPCK-PRO-C28-Student-Activity
